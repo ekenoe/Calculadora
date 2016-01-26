@@ -5,4 +5,5 @@ public class Suspenso {
 
     String supenso;
     String aprobado;
+    String asignatura;
 }
